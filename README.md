@@ -1,5 +1,12 @@
 ## Sample Apllication with Spring Boot
 
+### Demonstration
+This modules demonstrates 
+- API Layer (Controller Layer)
+- Service Layer
+- Data Access Layer
+ (on the basis of Spring Boot ) 
+
 ### Build
 - clone this project on your working directory
 - Implement Maven Lifecycle intall
